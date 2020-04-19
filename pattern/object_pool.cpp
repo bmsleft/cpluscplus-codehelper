@@ -73,3 +73,4 @@ int main() {
   auto c = pool.Get<int>();
   c->print();
 }
+

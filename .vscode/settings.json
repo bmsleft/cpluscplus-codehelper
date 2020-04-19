@@ -43,6 +43,12 @@
         "streambuf": "cpp",
         "thread": "cpp",
         "utility": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "map": "cpp",
+        "__mutex_base": "cpp",
+        "iterator": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "string": "cpp"
     }
 }
